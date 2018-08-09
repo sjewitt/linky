@@ -13,4 +13,4 @@ Currently, `<link>`, `<a>` and `<img>` tags are analysed, but the plan is to mak
  - properly parameterise startup
  - utilise phantomJS or similar to allow analysis of bynamic pages
      - account for URL parameters
- - properly document!
+ - properly document!  
